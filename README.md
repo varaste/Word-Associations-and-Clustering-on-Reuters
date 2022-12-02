@@ -36,6 +36,7 @@ After removing the stop words, we write the letters in small letters and perform
 After we convert the data of all the documents into bags of words, we obtain Syntagmatic Associations for the words using the commands available in the scikit-learn library.
 The 30 most repeated words in the entire text can be seen in the chart below:
 
+
 ![Tokenization](https://github.com/varaste/Word-Associations-and-Clustering-on-Reuters/blob/main/assets/Arya-Varaste-30-most-frequent-words-in-text.png)
 
 
